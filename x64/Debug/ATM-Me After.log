@@ -1,0 +1,5 @@
+﻿  ATM-Me After.cpp
+F:\ATM-Me After\ATM-Me After.cpp(67,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ATM-Me After\ATM-Me After.cpp(174,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\ATM-Me After\ATM-Me After.cpp(296): warning C4715: 'GetQuickWithDrawAmount': not all control paths return a value
+  ATM-Me After.vcxproj -> F:\ATM-Me After\x64\Debug\ATM-Me After.exe
