@@ -42,13 +42,6 @@ _You can place screenshots of your application in the `screenshots/` folder and 
 
 ---
 
-## 📢 More Projects
-
-Check out my other C++ and C# projects and tutorials on my Telegram channel:  
-📌 [https://t.me/ahmedelhwwary3](https://t.me/ahmedelhwwary3)
-
----
-
 ## 📦 How to Run
 
 1. Open the project in any C++ IDE (Code::Blocks, VS Code, or Visual Studio).
